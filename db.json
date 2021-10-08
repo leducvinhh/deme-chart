@@ -1,0 +1,637 @@
+{
+  "data": {
+    "baseTemperature":  8.66,
+    "hoursAccess": [
+      {
+        "days": "Monday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Monday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Monday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Monday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Monday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Monday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Monday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Monday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Monday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Monday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Monday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Monday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Monday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Monday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Monday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Monday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Monday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Monday",
+        "hours": 24,
+        "access": 20
+      },
+      {
+        "days": "Tuesday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Tuesday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Tuesday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Tuesday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Tuesday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Tuesday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Tuesday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Tuesday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Tuesday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Tuesday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Tuesday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Tuesday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Tuesday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Tuesday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Tuesday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Tuesday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Tuesday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Tuesday",
+        "hours": 24,
+        "access": 20
+      },
+      {
+        "days": "Wednesday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Wednesday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Wednesday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Wednesday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Wednesday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Wednesday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Wednesday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Wednesday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Wednesday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Wednesday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Wednesday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Wednesday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Wednesday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Wednesday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Wednesday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Wednesday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Wednesday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Wednesday",
+        "hours": 24,
+        "access": 20
+      },
+      {
+        "days": "Thursday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Thursday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Thursday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Thursday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Thursday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Thursday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Thursday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Thursday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Thursday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Thursday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Thursday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Thursday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Thursday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Thursday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Thursday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Thursday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Thursday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Thursday",
+        "hours": 24,
+        "access": 20
+      },
+      {
+        "days": "Friday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Friday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Friday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Friday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Friday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Friday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Friday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Friday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Friday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Friday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Friday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Friday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Friday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Friday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Friday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Friday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Friday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Friday",
+        "hours": 24,
+        "access": 20
+      },
+      {
+        "days": "Saturday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Saturday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Saturday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Saturday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Saturday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Saturday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Saturday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Saturday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Saturday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Saturday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Saturday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Saturday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Saturday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Saturday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Saturday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Saturday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Saturday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Saturday",
+        "hours": 24,
+        "access": 20
+      },
+      {
+        "days": "Sunday",
+        "hours": 7,
+        "access": 100
+      },
+      {
+        "days": "Sunday",
+        "hours": 8,
+        "access": 200
+      },
+      {
+        "days": "Sunday",
+        "hours": 9,
+        "access": 300
+      },
+      {
+        "days": "Sunday",
+        "hours": 10,
+        "access": 400
+      },
+      {
+        "days": "Sunday",
+        "hours": 11,
+        "access": 500
+      },
+      {
+        "days": "Sunday",
+        "hours": 12,
+        "access": 600
+      },
+      {
+        "days": "Sunday",
+        "hours": 13,
+        "access": 700
+      },
+      {
+        "days": "Sunday",
+        "hours": 14,
+        "access": 800
+      },
+      {
+        "days": "Sunday",
+        "hours": 15,
+        "access": 900
+      },
+      {
+        "days": "Sunday",
+        "hours": 16,
+        "access": 1000
+      },
+      {
+        "days": "Sunday",
+        "hours": 17,
+        "access": 1100
+      },
+      {
+        "days": "Sunday",
+        "hours": 18,
+        "access": 1200
+      },
+      {
+        "days": "Sunday",
+        "hours": 19,
+        "access": 1300
+      },
+      {
+        "days": "Sunday",
+        "hours": 20,
+        "access": 1400
+      },
+      {
+        "days": "Sunday",
+        "hours": 21,
+        "access": 1500
+      },
+      {
+        "days": "Sunday",
+        "hours": 22,
+        "access": 1600
+      },
+      {
+        "days": "Sunday",
+        "hours": 23,
+        "access": 50
+      },
+      {
+        "days": "Sunday",
+        "hours": 24,
+        "access": 20
+      }
+    ]
+  }
+}
